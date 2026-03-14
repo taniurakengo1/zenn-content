@@ -1,7 +1,7 @@
 ---
 title: "100均のハンコ回転台を見て「PCの画面もこう回せたらな」と思ったので作った"
 emoji: "🎠"
-type: "tech"
+type: "tech"[onescreensnap-per-display-capture](onescreensnap-per-display-capture.md)
 topics: ["macOS", "Swift", "AppKit", "Accessibility", "OSS"]
 published: true
 ---
